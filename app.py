@@ -1,4 +1,14 @@
 """
 Provides some arithmetic functions
 """
-print("hello world")
+
+
+def init() -> None:
+    """Function printing python version."""
+
+    print("Initialising...")
+
+
+if __name__ == "__main__":
+
+    init()
