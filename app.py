@@ -4,7 +4,7 @@ Provides some arithmetic functions
 
 
 def init() -> None:
-    """Function printing python version."""
+    """Init function."""
 
     print("Initialising...")
 
